@@ -8,3 +8,7 @@ Here is my linkedIn for more information about my education and projects: https:
 - 🤔 I’m looking for help to improve my skills and i'm open to constructive discussion about my projects
 - 📫 How to reach me: puertarochabianca@gmail.com
 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiancaPuertaRocha&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaPuertaRocha&layout=compact&theme=dark">
+</div>
